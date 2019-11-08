@@ -1,2 +1,4 @@
 Daniel Ogmer
 this is a sample file
+this is a new line
+and this as well
